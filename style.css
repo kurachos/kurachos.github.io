@@ -1,0 +1,19 @@
+#table1 tr:first-child td:first-child {background-color: 
+                                            blue;}
+#table1 tr:first-child td:nth-child(2){background-color:
+                                            blue;}										
+#table1	tr:nth-child(2) td:nth-child(2) {background:
+                                           yellow;}
+												  
+#table1 tr:nth-last-child(3) td:nth-child(2n+1){background-color: 
+                                            pink;}											
+#table1 tr:nth-child(5) {background-color: 
+                                            gray;}
+#table2 tr:nth-child(2n+1) td:nth-child(2n) {background:black;}
+#table3 tr:nth-child(2n) td:nth-child(2n){background-color: 
+                                            red;}												   
+
+
+
+
+	   
